@@ -1,0 +1,40 @@
+{
+    "name":"Allright.com",
+    "short_name":"Allright",
+    "description":"",
+    "start_url":"https://allright.com/",
+    "display":"minimal-ui",
+    "background_color":"#3b3971",
+    "theme_color":"#3b3971",
+    "icons":[
+        {
+            "src":"https://s.allright.com/assets/images/iconset/favicon-72x72.png",
+            "sizes":"72x72",
+            "type": "image\/png",
+            "density": "1.5"
+        },
+        {
+            "src":"https://s.allright.com/assets/images/iconset/favicon-96x96.png",
+            "sizes":"96x96",
+            "type": "image\/png",
+            "density": "2.0"
+        },
+        {
+            "src":"https://s.allright.com/assets/images/iconset/favicon-144x144.png",
+            "sizes":"144x144",
+            "type": "image\/png",
+            "density": "3.0"
+        },
+        {
+            "src":"https://s.allright.com/assets/images/iconset/favicon-192x192.png",
+            "sizes":"192x192",
+            "type": "image\/png",
+            "density": "4.0"
+        },
+        {
+            "src":"https://s.allright.com/assets/images/iconset/favicon-512x512.png",
+            "sizes":"512x512",
+            "type": "image\/png"
+        }
+    ]
+}
